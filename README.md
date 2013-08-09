@@ -7,10 +7,11 @@ Confirmed Working:
 
 Office 2010
 Office 2007
+Office 2013
 
 Working with Minor Issues:
 
-Office 2013
+
 
 Confirmed Busted:
 
